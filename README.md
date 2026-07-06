@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-🔗 **Live Demo:** [Click here](https://your-actual-link.streamlit.app)
+🔗 **Live Demo:** [Click here]([https://your-actual-link.streamlit.app](https://password-strength-checker-rbijbsfb7k3xqmjjxsamco.streamlit.app/))
 
 A password strength analyzer built in Python that checks:
 - Character variety (uppercase, lowercase, numbers, symbols)
